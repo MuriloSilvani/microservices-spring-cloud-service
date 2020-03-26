@@ -14,6 +14,9 @@ public class CompraService {
 
 	@Autowired
 	private RestTemplate client;
+	
+//	@Autowired
+//	private DiscoveyClient eurekaClient;
 
 	public void realizaCompra(CompraDto compra) {
 		
