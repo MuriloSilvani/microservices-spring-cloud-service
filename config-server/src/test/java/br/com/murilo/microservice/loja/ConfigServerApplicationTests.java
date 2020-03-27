@@ -1,10 +1,10 @@
-package br.com.murilo.microservice.fornecedor;
+package br.com.murilo.microservice.loja;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FornecedorApplicationTests {
+class ConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {

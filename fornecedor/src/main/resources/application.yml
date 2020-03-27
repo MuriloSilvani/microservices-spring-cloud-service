@@ -1,7 +1,7 @@
 
 server:
   port: 8081
-     
+
 spring:
   application:
     name: 'fornecedor'
@@ -14,8 +14,8 @@ spring:
     database-platform: org.hibernate.dialect.MySQL8Dialect
     show-sql: true
     hibernate:
-      ddl-auto: update     
-     
+      ddl-auto: update 
+
 eureka:
   client:
     register-with-eureka: true
